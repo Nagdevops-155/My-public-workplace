@@ -19,3 +19,8 @@ public class Factorial {
         System.out.println("Done");
     }
 }
+
+Adding data to test
+the usage of conflicts
+and also
+the stash
